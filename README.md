@@ -23,7 +23,7 @@
   </main>
 
   <footer>
-    <p>&copy; 2025 Mon Bot | Tous droits réservés</p>
+    <p>&copy; 2025 Club BlackMoon | Tous droits réservés</p>
   </footer>
 </body>
 </html>
